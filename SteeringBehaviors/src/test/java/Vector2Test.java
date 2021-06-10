@@ -72,28 +72,28 @@ public class Vector2Test {
 
     @Test
     public void opPE_Test() {
-        Vector2 w = v.opPE(v);
+        Vector2 w = v.plusEquals(v);
         assertEquals(w.getX(), 6);
         assertEquals(w.getY(), 8);
     }
 
     @Test
     public void opME_Test() {
-        Vector2 w = v.opME(v);
+        Vector2 w = v.minusEquals(v);
         assertEquals(w.getX(), 0);
         assertEquals(w.getY(), 0);
     }
 
     @Test
     public void opTE_Test() {
-        Vector2 w = v.opTE(3);
+        Vector2 w = v.timesEquals(3);
         assertEquals(w.getX(), 9);
         assertEquals(w.getY(), 12);
     }
 
     @Test
     public void opDE_Test() {
-        Vector2 w = v.opDE(2);
+        Vector2 w = v.divideEquals(2);
         assertEquals(w.getX(), 1.5);
         assertEquals(w.getY(), 2);
     }
