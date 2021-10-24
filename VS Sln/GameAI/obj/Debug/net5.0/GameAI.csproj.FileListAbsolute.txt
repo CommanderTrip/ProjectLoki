@@ -1,0 +1,16 @@
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.exe
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.deps.json
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.runtimeconfig.json
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.runtimeconfig.dev.json
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.dll
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\ref\GameAI.dll
+C:\Users\J\Documents\Repos\GameAI\bin\Debug\net5.0\GameAI.pdb
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.csproj.AssemblyReference.cache
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.AssemblyInfoInputs.cache
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.AssemblyInfo.cs
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.dll
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\ref\GameAI.dll
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.pdb
+C:\Users\J\Documents\Repos\GameAI\obj\Debug\net5.0\GameAI.genruntimeconfig.cache
