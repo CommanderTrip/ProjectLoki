@@ -1,0 +1,16 @@
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.exe
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.deps.json
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.runtimeconfig.json
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.runtimeconfig.dev.json
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.dll
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\ref\Loki.dll
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\bin\Debug\net5.0\Loki.pdb
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.csproj.AssemblyReference.cache
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.AssemblyInfoInputs.cache
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.AssemblyInfo.cs
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.dll
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\ref\Loki.dll
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.pdb
+C:\Users\J\Documents\Git Repos\ProjectLoki\Loki\obj\Debug\net5.0\Loki.genruntimeconfig.cache
