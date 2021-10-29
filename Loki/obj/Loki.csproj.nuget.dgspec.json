@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj": {}
+    "F:\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj": {}
   },
   "projects": {
-    "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj": {
+    "F:\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj",
+        "projectUniqueName": "F:\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj",
         "projectName": "Loki",
-        "projectPath": "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj",
-        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\obj\\",
+        "projectPath": "F:\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "F:\\Git Repos\\ProjectLoki\\Loki\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
