@@ -6,13 +6,16 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="AutonomousMovingAgents\**" />
       <Compile Remove="FiniteStateMachine\**" />
+      <EmbeddedResource Remove="AutonomousMovingAgents\**" />
       <EmbeddedResource Remove="FiniteStateMachine\**" />
+      <None Remove="AutonomousMovingAgents\**" />
       <None Remove="FiniteStateMachine\**" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="AutonomousMovingAgents\SteeringBehaviors\" />
+      <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
     </ItemGroup>
 
 </Project>

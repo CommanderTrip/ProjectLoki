@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a+TTMlme8pgSBA77MCS+Z3k8yQtLjyC2Zny4pPkyVc8FQxyzgTH75byS0uXJ7lmZodOY3+TZHK47Dm6EA6o4Bw==",
+  "dgSpecHash": "I/lNpy0Gvt1S4gj3YV7n0i3WggLSmvHBAEWxq1qZunEVEarJIT3hfJNbRF/o1eH3SXSQYklc1XdjwuFUsMmfDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\J\\Documents\\Git Repos\\ProjectLoki\\Loki\\Loki.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

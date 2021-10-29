@@ -1,12 +1,14 @@
 ﻿using System;
+using System.IO;
+using Loki.BasicMovement;
 
 namespace Loki
 {
-    internal static class Program
+    static class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Programs.Program2();
         }
     }
 }
